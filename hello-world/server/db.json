@@ -1,0 +1,230 @@
+{
+  "products": [
+    {
+      "id": 123,
+      "title": "Product 123",
+      "descr": "Opis Produktu",
+      "price": 120,
+      "image": "https://i.picsum.photos/id/36/200/200.jpg"
+    },
+    {
+      "id": 234,
+      "title": "Product 234",
+      "descr": "Opis Produktu",
+      "price": 140,
+      "image": "https://i.picsum.photos/id/160/200/200.jpg"
+    },
+    {
+      "id": 345,
+      "title": "Product 345",
+      "descr": "Opis Produktu",
+      "price": 150,
+      "image": "https://i.picsum.photos/id/48/200/200.jpg"
+    },
+    {
+      "title": "Placki  123",
+      "descr": "",
+      "price": 0,
+      "image": "http://localhost:9000/uploads/17323430.gif",
+      "createdAt": 1587221009538,
+      "id": 347
+    },
+    {
+      "title": "Placki  13465",
+      "descr": "",
+      "price": 0,
+      "image": "http://localhost:9000/uploads/1-TmsrbnXRGbRvWCLngQW0Iw.gif",
+      "createdAt": 1587221096936,
+      "id": 348
+    }
+  ],
+  "carts": [],
+  "cart_items": [
+    {
+      "userId": 234,
+      "productId": 234,
+      "createdAt": 1587224089193,
+      "id": 2
+    },
+    {
+      "productId": 345,
+      "userId": 234,
+      "createdAt": 1587224198037,
+      "id": 3
+    },
+    {
+      "productId": 234,
+      "userId": 234,
+      "createdAt": 1587224200400,
+      "id": 4
+    },
+    {
+      "productId": 123,
+      "id": 6
+    },
+    {
+      "productId": 123,
+      "userId": 123,
+      "createdAt": 1587987634618,
+      "id": 12
+    },
+    {
+      "productId": 123,
+      "userId": 123,
+      "createdAt": 1587987635493,
+      "id": 13
+    },
+    {
+      "productId": 123,
+      "userId": 123,
+      "createdAt": 1587987635681,
+      "id": 14
+    },
+    {
+      "productId": 123,
+      "userId": 123,
+      "createdAt": 1587987635826,
+      "id": 15
+    },
+    {
+      "productId": 123,
+      "userId": 123,
+      "createdAt": 1587987635981,
+      "id": 16
+    },
+    {
+      "productId": 123,
+      "userId": 123,
+      "createdAt": 1587987651641,
+      "id": 17
+    },
+    {
+      "productId": 123,
+      "userId": 123,
+      "createdAt": 1588172102512,
+      "id": 18
+    },
+    {
+      "productId": 123,
+      "userId": 123,
+      "createdAt": 1588172103743,
+      "id": 19
+    },
+    {
+      "productId": 123,
+      "userId": 123,
+      "createdAt": 1588172112103,
+      "id": 20
+    },
+    {
+      "productId": 123,
+      "userId": 123,
+      "createdAt": 1588173736793,
+      "id": 21
+    },
+    {
+      "productId": 123,
+      "userId": 123,
+      "createdAt": 1588173758800,
+      "id": 22
+    },
+    {
+      "productId": 123,
+      "userId": 123,
+      "createdAt": 1588174190752,
+      "id": 23
+    },
+    {
+      "productId": 234,
+      "userId": 123,
+      "createdAt": 1588174195090,
+      "id": 24
+    },
+    {
+      "productId": 345,
+      "userId": 123,
+      "createdAt": 1588174196143,
+      "id": 25
+    },
+    {
+      "productId": 345,
+      "userId": 123,
+      "createdAt": 1588174320798,
+      "id": 26
+    },
+    {
+      "productId": 345,
+      "userId": 123,
+      "createdAt": 1588174320917,
+      "id": 27
+    },
+    {
+      "productId": 345,
+      "userId": 123,
+      "createdAt": 1588174321060,
+      "id": 28
+    },
+    {
+      "productId": 345,
+      "userId": 123,
+      "createdAt": 1588174321203,
+      "id": 29
+    },
+    {
+      "productId": 345,
+      "userId": 123,
+      "createdAt": 1588174321336,
+      "id": 30
+    },
+    {
+      "productId": 123,
+      "userId": 123,
+      "createdAt": 1588174529539,
+      "id": 31
+    },
+    {
+      "productId": 234,
+      "userId": 123,
+      "createdAt": 1588174728108,
+      "id": 32
+    },
+    {
+      "productId": 123,
+      "userId": 123,
+      "createdAt": 1588174936983,
+      "id": 33
+    },
+    {
+      "productId": 234,
+      "userId": 123,
+      "createdAt": 1588174943884,
+      "id": 34
+    },
+    {
+      "productId": 347,
+      "userId": 123,
+      "createdAt": 1588174955317,
+      "id": 35
+    },
+    {
+      "productId": 123,
+      "userId": 123,
+      "createdAt": 1588175079760,
+      "id": 36
+    }
+  ],
+  "users": [
+    {
+      "id": 123,
+      "name": "User 123",
+      "username": "user123",
+      "password": "test"
+    },
+    {
+      "id": 234,
+      "name": "User 234",
+      "username": "user234",
+      "password": "test"
+    }
+  ]
+}
