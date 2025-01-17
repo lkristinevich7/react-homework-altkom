@@ -9,7 +9,7 @@
     "bootstrap": "^4.4.1",
     "express": "^4.17.1",
     "json-server": "^0.16.1",
-    "mongoose": "^5.9.10",
+    "mongoose": "^8.9.5",
     "multer": "^1.4.2",
     "react": "^16.13.1",
     "react-browser-router": "^2.1.2",
